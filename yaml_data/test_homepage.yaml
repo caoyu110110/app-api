@@ -1,0 +1,58 @@
+#s首页
+#首页旅客来源列表接口
+test_homePage_appInfo:
+  - param:
+      dateTime: "20210726"
+
+
+#首页旅客流量列表接口
+#choice 1预订 2在住 3新入住 4退房
+test_homePage_passengerFlow:
+  - param:
+      dateTime: "20210726"
+      choice: '1'
+
+#门店列表接口
+test_hotel_list:
+  - param:
+      hotelName: ""
+      roomName: ""
+      merchantName: ""
+      pageSize: "10"
+      pageNum: "1"
+
+#门店详情
+test_hotel_hotelDetail:
+  - param:
+      hotelCode: "H500103202011091055050001"
+
+#房屋列表接口
+test_room_list:
+  - param:
+      roomName: ""
+      roomAddress: ""
+      merchantName: ""
+      appIsMyTurnout: ""
+      pageSize: "10"
+      pageNum: "1"
+
+#房屋详情
+test_room_Detail:
+  - param:
+      roomCode: 'R500103202008261813570001'
+
+#编辑房屋
+test_room_update:
+  - param:
+      roomCode: "R500103202008261813570001"
+      building: '12'
+      unit: '2'
+      floor: '12'
+      buildingName: '12-2'
+      psbUnitCode: '500103730000'
+      turnoutCode: '5001037300130000'
+      bedNum: '2'
+      isOpen: '1'
+      roomName: '302房屋编辑'
+      iidd: ''
+      images: ''

@@ -1,0 +1,30 @@
+#APP接口基础信息参数配置
+
+
+#用户信息
+test_statistics:
+  - param:
+
+
+#从业人员
+test_employee_list:
+  - param:
+      employeeName: ""
+      employeeCardNum: ""
+      pageSize: '10'
+      pageNum: '1'
+
+
+  #旅客信息列表
+test_guest_list:
+  - param:
+      pageNum : "1"
+      pageSize: '10'
+      name: ""
+      cardNum: "500103198103075750"
+
+
+  #旅客信息同住人
+test_guest_roommates:
+  - param:
+      guestCode: "G500103202010201309150001"
