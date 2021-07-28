@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3ceccb3-7a9f-460f-859a-ef6b32be270c" name="Default Changelist" comment="网约房助手APP接口测试">
+    <list default="true" id="a3ceccb3-7a9f-460f-859a-ef6b32be270c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_case/Test_alarm.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/Test_alarm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_case/Test_appuser.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/Test_appuser.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_case/Test_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/Test_check.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test_case/Test_check.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+              <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -91,11 +93,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_case/Test_appuser.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="52" />
+              <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -139,15 +141,15 @@
         <option value="$PROJECT_DIR$/yaml_data/test_appuser.yaml" />
         <option value="$PROJECT_DIR$/yaml_data/test_homepage.yaml" />
         <option value="$PROJECT_DIR$/test_case/Test_homepage.py" />
-        <option value="$PROJECT_DIR$/test_case/Test_appuser.py" />
         <option value="$PROJECT_DIR$/test_case/Test_alarm.py" />
         <option value="$PROJECT_DIR$/test_case/Test_check.py" />
+        <option value="$PROJECT_DIR$/test_case/Test_appuser.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1769" />
-    <option name="y" value="34" />
+    <option name="x" value="-2" />
+    <option name="y" value="116" />
     <option name="width" value="961" />
     <option name="height" value="1047" />
   </component>
@@ -310,7 +312,7 @@
       <workItem from="1627264431362" duration="22386000" />
       <workItem from="1627354242054" duration="9824000" />
       <workItem from="1627371930095" duration="9853000" />
-      <workItem from="1627438730508" duration="1446000" />
+      <workItem from="1627438730508" duration="2236000" />
     </task>
     <task id="LOCAL-00001" summary="网约房助手APP接口测试">
       <created>1627382124430</created>
@@ -326,7 +328,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627382627750</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="修改两个测试类">
+      <created>1627440243182</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627440243183</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -362,10 +371,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51205000" />
+    <option name="totallyTimeSpent" value="51995000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4987715" visible="true" weight="0.17803837" />
@@ -380,10 +389,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41323212" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.35032538" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -420,7 +429,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="网约房助手APP接口测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="网约房助手APP接口测试" />
+    <MESSAGE value="修改两个测试类" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改两个测试类" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1165261045/builtins.py">
@@ -558,16 +568,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_case/Test_appuser.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="52" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test_case/Test_alarm.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -581,7 +581,17 @@
     <entry file="file://$PROJECT_DIR$/test_case/Test_check.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <caret line="15" column="52" lean-forward="true" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/Test_appuser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
