@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3ceccb3-7a9f-460f-859a-ef6b32be270c" name="Default Changelist" comment="网约房助手APP接口测试" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/HDSP_app$admin_web.coverage" NAME="admin_web Coverage Results" MODIFIED="1627265151954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_statistics.coverage" NAME="pytest for Test_app.Testapp.test_statistics Coverage Results" MODIFIED="1627281172482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_alarm_handleDetail.coverage" NAME="pytest for Test_app.Testapp.test_alarm_handleDetail Coverage Results" MODIFIED="1627289955865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_in_Test_alarm_py.coverage" NAME="pytest in Test_alarm.py Coverage Results" MODIFIED="1627376735762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_alarmHandle_uploadAlarmPhoto.coverage" NAME="pytest for Test_app.Testapp.test_alarmHandle_uploadAlarmPhoto Coverage Results" MODIFIED="1627290178331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_org_list.coverage" NAME="pytest for Test_app.Testapp.test_org_list Coverage Results" MODIFIED="1627114884436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_hotel_list.coverage" NAME="pytest for Test_app.Testapp.test_hotel_list Coverage Results" MODIFIED="1627283427591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_in_Test_app_py.coverage" NAME="pytest in Test_app.py Coverage Results" MODIFIED="1627294435859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_homePage_appInfo.coverage" NAME="pytest for Test_app.Testapp.test_homePage_appInfo Coverage Results" MODIFIED="1627281651645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_alarmHandle_revokeHandle.coverage" NAME="pytest for Test_app.Testapp.test_alarmHandle_revokeHandle Coverage Results" MODIFIED="1627291566964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp.coverage" NAME="pytest for Test_app.Testapp Coverage Results" MODIFIED="1627354363126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_in_Test_check_py.coverage" NAME="pytest in Test_check.py Coverage Results" MODIFIED="1627376743705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_roomCheck_list.coverage" NAME="pytest for Test_app.Testapp.test_roomCheck_list Coverage Results" MODIFIED="1627289939979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_alarmHandle_invalidHandle.coverage" NAME="pytest for Test_app.Testapp.test_alarmHandle_invalidHandle Coverage Results" MODIFIED="1627291665092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_homePage_passengerFlow.coverage" NAME="pytest for Test_app.Testapp.test_homePage_passengerFlow Coverage Results" MODIFIED="1627282467310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_homepage_Testhomepage.coverage" NAME="pytest for Test_homepage.Testhomepage Coverage Results" MODIFIED="1627372475925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_roomCheck_uploadCheckPhoto.coverage" NAME="pytest for Test_app.Testapp.test_roomCheck_uploadCheckPhoto Coverage Results" MODIFIED="1627288621971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_in_Test_appuser_py.coverage" NAME="pytest in Test_appuser.py Coverage Results" MODIFIED="1627376740187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_in_Test_homepage_py.coverage" NAME="pytest in Test_homepage.py Coverage Results" MODIFIED="1627376749852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$Test_homepage.coverage" NAME="Test_homepage Coverage Results" MODIFIED="1627372025661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_guest_roommates.coverage" NAME="pytest for Test_app.Testapp.test_guest_roommates Coverage Results" MODIFIED="1627294380460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_homePage_guestResource.coverage" NAME="pytest for Test_app.Testapp.test_homePage_guestResource Coverage Results" MODIFIED="1627282302776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_check_recordList.coverage" NAME="pytest for Test_app.Testapp.test_check_recordList Coverage Results" MODIFIED="1627270973459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_check_Testcheck.coverage" NAME="pytest for Test_check.Testcheck Coverage Results" MODIFIED="1627371995107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_room_list.coverage" NAME="pytest for Test_app.Testapp.test_room_list Coverage Results" MODIFIED="1627284121968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_check_Testcheck_test_statistics.coverage" NAME="pytest for Test_check.Testcheck.test_statistics Coverage Results" MODIFIED="1627366650335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_select_orglist.coverage" NAME="pytest for Test_app.Testapp.test_select_orglist Coverage Results" MODIFIED="1627265791296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_alarmHandle_insertHandle.coverage" NAME="pytest for Test_app.Testapp.test_alarmHandle_insertHandle Coverage Results" MODIFIED="1627291269000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_alarm_alarmList.coverage" NAME="pytest for Test_app.Testapp.test_alarm_alarmList Coverage Results" MODIFIED="1627289144255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_room_Detail.coverage" NAME="pytest for Test_app.Testapp.test_room_Detail Coverage Results" MODIFIED="1627286340275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_room_update.coverage" NAME="pytest for Test_app.Testapp.test_room_update Coverage Results" MODIFIED="1627286702032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_roomCheck_insert.coverage" NAME="pytest for Test_app.Testapp.test_roomCheck_insert Coverage Results" MODIFIED="1627288322425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_alarm_alarmDetail.coverage" NAME="pytest for Test_app.Testapp.test_alarm_alarmDetail Coverage Results" MODIFIED="1627289381542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_guest_list.coverage" NAME="pytest for Test_app.Testapp.test_guest_list Coverage Results" MODIFIED="1627294217152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_app_Testapp_test_roomCheck_detail.coverage" NAME="pytest for Test_app.Testapp.test_roomCheck_detail Coverage Results" MODIFIED="1627288901461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/HDSP_app$pytest_for_Test_alarm_Testalarm.coverage" NAME="pytest for Test_alarm.Testalarm Coverage Results" MODIFIED="1627357011164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HDSP-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_case/Test_alarm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test_roomCheck_uploadCheckPhoto</find>
+      <find>test_roomCheck_insert</find>
+      <find>roomCheck_list</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/test_case" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/api/app.py" />
+        <option value="$PROJECT_DIR$/api/admin_web.py" />
+        <option value="$PROJECT_DIR$/yaml_data/test_app.yaml" />
+        <option value="$PROJECT_DIR$/api/apptest.py" />
+        <option value="$PROJECT_DIR$/test_case/Test_app.py" />
+        <option value="$PROJECT_DIR$/api/alarm.py" />
+        <option value="$PROJECT_DIR$/yaml_data/test_alarm.yaml" />
+        <option value="$PROJECT_DIR$/api/homepage.py" />
+        <option value="$PROJECT_DIR$/api/appuser.py" />
+        <option value="$PROJECT_DIR$/api/check.py" />
+        <option value="$PROJECT_DIR$/yaml_data/test_check.yaml" />
+        <option value="$PROJECT_DIR$/yaml_data/test_appuser.yaml" />
+        <option value="$PROJECT_DIR$/yaml_data/test_homepage.yaml" />
+        <option value="$PROJECT_DIR$/test_case/Test_alarm.py" />
+        <option value="$PROJECT_DIR$/test_case/Test_check.py" />
+        <option value="$PROJECT_DIR$/test_case/Test_homepage.py" />
+        <option value="$PROJECT_DIR$/test_case/Test_appuser.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1769" />
+    <option name="y" value="34" />
+    <option name="width" value="961" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HDSP-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HDSP-app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HDSP-app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HDSP-app" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/HDSP" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PYproject\HDSP-app\api" />
+      <recent name="D:\PYproject\HDSP-app\test_case" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PYproject\HDSP-app\api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest in Test_homepage.py">
+    <configuration name="pytest for Test_homepage.Testhomepage" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HDSP-app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_homepage.Testhomepage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Test_alarm.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HDSP-app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/Test_alarm.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Test_appuser.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HDSP-app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/Test_appuser.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Test_check.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HDSP-app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/Test_check.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in Test_homepage.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="HDSP-app" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_case/Test_homepage.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest in Test_homepage.py" />
+        <item itemvalue="Python tests.pytest in Test_check.py" />
+        <item itemvalue="Python tests.pytest in Test_appuser.py" />
+        <item itemvalue="Python tests.pytest in Test_alarm.py" />
+        <item itemvalue="Python tests.pytest for Test_homepage.Testhomepage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3ceccb3-7a9f-460f-859a-ef6b32be270c" name="Default Changelist" comment="" />
+      <created>1627111636213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627111636213</updated>
+      <workItem from="1627111642603" duration="6413000" />
+      <workItem from="1627198964695" duration="1283000" />
+      <workItem from="1627264431362" duration="22386000" />
+      <workItem from="1627354242054" duration="9824000" />
+      <workItem from="1627371930095" duration="9853000" />
+      <workItem from="1627438730508" duration="610000" />
+    </task>
+    <task id="LOCAL-00001" summary="网约房助手APP接口测试">
+      <created>1627382124430</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1627382124430</updated>
+    </task>
+    <task id="LOCAL-00002" summary="网约房助手APP接口测试">
+      <created>1627382627750</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627382627750</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_Test_check_py - 2021.07.27 at 15h 45m 50s.xml">
+      <configuration name="pytest in Test_check.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_check_Testcheck - 2021.07.27 at 15h 46m 38s.xml">
+      <configuration name="pytest for Test_check.Testcheck" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Test_homepage_py - 2021.07.27 at 15h 54m 07s.xml">
+      <configuration name="pytest in Test_homepage.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_for_Test_homepage_Testhomepage - 2021.07.27 at 15h 54m 39s.xml">
+      <configuration name="pytest for Test_homepage.Testhomepage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Test_alarm_py - 2021.07.27 at 16h 13m 26s.xml">
+      <configuration name="pytest in Test_alarm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Test_appuser_py - 2021.07.27 at 17h 05m 18s.xml">
+      <configuration name="pytest in Test_appuser.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Test_alarm_py - 2021.07.27 at 17h 05m 39s.xml">
+      <configuration name="pytest in Test_alarm.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Test_appuser_py - 2021.07.27 at 17h 05m 42s.xml">
+      <configuration name="pytest in Test_appuser.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Test_check_py - 2021.07.27 at 17h 05m 48s.xml">
+      <configuration name="pytest in Test_check.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_Test_homepage_py - 2021.07.27 at 17h 05m 52s.xml">
+      <configuration name="pytest in Test_homepage.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="50369000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987715" visible="true" weight="0.17803837" />
+      <window_info id="Structure" order="1" sideWeight="0.5012285" side_tool="true" weight="0.11886994" />
+      <window_info id="Favorites" order="2" sideWeight="0.5012285" side_tool="true" weight="0.11886994" />
+      <window_info active="true" anchor="bottom" id="GitHub Pull Requests" weight="0.61171365" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5709643" />
+      <window_info anchor="bottom" x="-82" y="409" width="1876" height="327" id="Run" order="2" weight="0.032502707" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4496208" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.41323212" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987715" visible="true" weight="0.17643923" />
+      <window_info id="Structure" order="1" sideWeight="0.5012285" side_tool="true" weight="0.11886994" />
+      <window_info id="Favorites" order="2" sideWeight="0.5012285" side_tool="true" weight="0.11886994" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5709643" />
+      <window_info active="true" anchor="bottom" x="-82" y="409" width="1876" height="327" id="Run" order="2" visible="true" weight="0.34127843" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4496208" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.16143012" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="网约房助手APP接口测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="网约房助手APP接口测试" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1165261045/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="3704" column="8" selection-start-line="3704" selection-start-column="8" selection-end-line="3704" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/baseapi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaml_data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/admin_web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaml_data/test_alarm.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="715">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaml_data/test_check.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaml_data/test_appuser.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yaml_data/test_homepage.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/alarm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/appuser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/software/python3.7.6/Lib/importlib/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/Test_homepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="16" lean-forward="true" selection-start-line="31" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/Test_check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/Test_appuser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_case/Test_alarm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
